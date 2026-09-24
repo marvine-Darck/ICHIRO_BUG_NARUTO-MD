@@ -4,14 +4,14 @@
 //Instagram: its_jeanparker
 //Telegram: t.me/Jeanparker100
 //GitHub: @Jeanparker100
-//WhatsApp: +22898133388
+//WhatsApp: +242064295577
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Jean-Parker-tech
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2250152857921"
+global.ownernomer = "242064295577"
 global.ownername = "⚡MR Christian ICHORO ⚡"
 global.ytname = "YT: alvinblaste...13"
 global.socialm = "GitHub: Marcevans657"
